@@ -1,0 +1,45 @@
+body {
+  background-color: rgb(215, 224, 240);
+  font-family: 'Zen Kaku Gothic New', sans-serif;
+  text-align: center;
+  color: black;
+  font-size: 10 spw;
+  margin: 100px 60px;
+  font font-family: "Space grostesk", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  list-style: none;
+}
+p {
+  border: 1px inset #000000;
+  }
+
+h1 { color: darkgreen;
+  border: 1px inset #000000;
+  }
+h3 { 
+  color: whitesmoke;
+  background-color: darkgreen;
+  margin: 10px 163px;
+  padding: 10px 15px;
+  border-radius: 10px;
+  text-align: center;
+   } 
+
+   .text-center {
+    text-align: center;
+   }
+  
+  img {border-radius: 50%;{
+   }
+
+
+
+
+
+
+
+
+
+
+
